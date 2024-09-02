@@ -1,5 +1,5 @@
 # apnacollage-demo
 this is my first git repository.
-<br>
+<hr>
 author-danish ali
 
